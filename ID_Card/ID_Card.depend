@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549298438 source:d:\ludus academie\projet codeblocks\id_card\main.c
+	<stdio.h>
+	<stdlib.h>
+
